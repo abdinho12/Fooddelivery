@@ -1,0 +1,39 @@
+.order-summary {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.order-summary h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.order-summary div {
+  margin-bottom: 20px;
+}
+
+.order-summary div p {
+  margin: 5px 0;
+}
+
+.order-summary div h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.order-summary button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.order-summary button:hover {
+  background-color: #0056b3;
+}
